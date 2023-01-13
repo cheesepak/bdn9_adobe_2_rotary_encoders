@@ -1,2 +1,4 @@
 # bdn9_macropad_2_rotary_encoders
-Keymap for the bdn9 rev1 macropad with two rotary encoders
+    
+<p>SirApple's bdn9 keymap for use with Adobe Software on Windows 10. Currently supports Photoshop and Illustrator.<p>
+Version 0.1.0 
